@@ -20,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VisualStudio](http://img.shields.io/badge/-VisualStudio-9966FF?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![DBeaver](http://img.shields.io/badge/-DBeaver-007ACC?style=flat-square&logo=visual-studio-code&logoColor=23ffffff)
+![DBeaver](http://img.shields.io/badge/-DBeaver-23F05032?style=flat-square&logo=dbeaver&logoColor=23ffffff)
 
 #### Knowledge
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
